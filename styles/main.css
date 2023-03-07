@@ -146,8 +146,8 @@ article img {
 #circle ul {
 	list-style-type: circle;
 	display: block;
-	width: 60px;
-	text-align: center;
+	flex-direction: column;
+	width: 55%;
 }
 
 
